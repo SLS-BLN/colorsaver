@@ -17,7 +17,7 @@ export default function LoginPage({ onLogin }) {
   return (
     <Wrapper>
       <Form onSubmit={handleSubmit}>
-        <h2>Login</h2>
+        <h2>Login!</h2>
         <Input
           labelText={"Your name"}
           type={"text"}
